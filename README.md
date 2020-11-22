@@ -1,7 +1,9 @@
 # Long Term Care Homes
 
-This file contains analysis of Long Term Care Homes in Ontario, Canada
+This file contains analysis of Long Term Care Homes (LTCH) in Ontario, Canada
 
 Data sources:
-List of Long Term  Care Homes with additional planned capacity:  
+1. List of Long Term  Care Homes with additional planned capacity:  
 https://www.ontario.ca/page/funding-long-term-care-home-development
+2. Locations of Long Term Care Homes
+https://data.ontario.ca/dataset/long-term-care-home-ltch-locations
